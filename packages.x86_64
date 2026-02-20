@@ -41,6 +41,7 @@ grml-zsh-config
 grub
 hdparm
 hyperv
+i3
 intel-ucode
 irssi
 iw
@@ -55,6 +56,8 @@ libusb-compat
 lightdm
 linux
 linux-atm
+linux-cachyos
+linux-cachyos-headers
 linux-firmware
 linux-firmware-marvell
 livecd-sounds
@@ -93,8 +96,10 @@ partclone
 parted
 partimage
 pcsclite
+picom
 pipewire
 pipewire-pulse
+polybar
 ppp
 pptpclient
 pv
