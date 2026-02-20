@@ -7,6 +7,7 @@ base
 bcachefs-tools
 bind
 bolt
+bottles
 brltty
 broadcom-wl
 btrfs-progs
@@ -55,6 +56,7 @@ linux-firmware
 linux-firmware-marvell
 livecd-sounds
 lsscsi
+lutris
 lvm2
 lynx
 man-db
@@ -103,6 +105,7 @@ smartmontools
 sof-firmware
 squashfs-tools
 sudo
+steam
 syslinux
 systemd-resolvconf
 tcpdump
@@ -123,6 +126,12 @@ wireless_tools
 wpa_supplicant
 wvdial
 xdg-utils
+xorg-server
+xf86-video-intel
+xf86-video-amdgpu
+xf86-video-nouveau
+xfwm4
+xfce4-panel
 xfsprogs
 xl2tpd
 zsh
